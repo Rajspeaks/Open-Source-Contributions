@@ -1,4 +1,4 @@
-<img src="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/open-source.jpeg" height="500px" width="500px">
+<img src="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/open-source.jpeg" height="250px" width="900px">
 
 # Open Source Contributions
 
