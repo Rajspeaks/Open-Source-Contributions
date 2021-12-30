@@ -17,7 +17,7 @@ Earned Certificate of Achievement/Participation/Appreciation, Letter of Recommen
 GSSoC'18
 </td>
 <td>
-![GirlScript Summer of Code 2018- Open Source Contributor](https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSOC'18%20Participant.jpg)
+<a href= "https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSOC'18%20Participant.jpg"> GirlScript Summer of Code 2018- Open Source Contributor</a>
 </td>
 </tr>
 
