@@ -1,6 +1,8 @@
+![open-source](https://user-images.githubusercontent.com/44817007/147729292-73edd0c8-bed6-45cc-abab-c8882be01e92.jpeg)
+
 # Rajdeep Das
 
-- Frontend Developer, Designing enthusiast.  
+- Frontend Developer, Designing enthusiast, Tech-nomad  
 
 ## Open Source Contribution: 
 
@@ -61,5 +63,104 @@ SWoC'20
 </td>
 <td>
 Script Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+Delta WoC'20
+</td>
+<td>
+Delta Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+  
+<tr>
+<td>
+DWoC'20
+</td>
+<td>
+DevScript Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+CWoC'21
+</td>
+<td>
+Cross Winter of Code 2021- Open Source Contributor
+</td>
+</tr>
+  
+<tr>
+<td>
+KWoC'20
+</td>
+<td>
+Kharagpur (IIT) Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+JWoC'21
+</td>
+<td>
+JGEC <br>(Jalpaiguri Government Engineering College) Winter of Code 2021- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+Delta WoC'20
+</td>
+<td>
+JGEC <br> (Jalpaiguri Government Engineering College) Winter of Code 2020- Open Source Mentor
+</td>
+</tr>
+   
+<tr>
+<td>
+NWoC'20
+</td>
+<td>
+NJack (IIT Patna) Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+DSC NSEC (EduAlgo) WoC'20
+</td>
+<td>
+EduAlgo via DSC NSEC <br> (Netaji Subhash Engineering College) Winter of Code 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+Hacktoberfest'20
+</td>
+<td>
+Hacktoberfest 2020- Open Source Contributor
+</td>
+</tr>
+
+<tr>
+<td>
+Hacktoberfest'21
+</td>
+<td>
+Hacktoberfest'21- Open Source Contributor + Mentor
+</td>
+</tr>
+
+<tr>
+<td>
+RedWoodJS'20
+</td>
+<td>
+RedWoodJS'20- Open Source Contributor
 </td>
 </tr>
