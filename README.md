@@ -57,9 +57,9 @@ GirlScript Winter of Code 2021- Open Source Project Supervisor
 
 <tr>
 <td>
-GSSoC'18
+SWoC'20
 </td>
 <td>
-Script Winter of Code 2021- Open Source Contributor
+Script Winter of Code 2020- Open Source Contributor
 </td>
 </tr>
