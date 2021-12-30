@@ -26,7 +26,7 @@ GSSoC'18
 GSSoC'19
 </td>
 <td>
-[GirlScript Summer of Code 2019- Open Source Project Admin] (https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSoC'19%20Project%20Admin.pdf)
+<a href= "https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSoC'19%20Project%20Admin.pdf">GirlScript Summer of Code 2019- Open Source Project Admin</a>
 </td>
 </tr>
 
@@ -35,7 +35,7 @@ GSSoC'19
 GSSoC'19
 </td>
 <td>
-GirlScript Summer of Code 2019- Open Source Mentor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/Rajdeep%20Das%20GSSOC'19%20Mentor.pdf">GirlScript Summer of Code 2019- Open Source Mentor</a>
 </td>
 </tr>
 
@@ -44,7 +44,7 @@ GirlScript Summer of Code 2019- Open Source Mentor
 GSSoC'20
 </td>
 <td>
-GirlScript Summer of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSoC'20%20Participant-%20Rajdeep%20Das.pdf">GirlScript Summer of Code 2020- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -53,7 +53,7 @@ GirlScript Summer of Code 2020- Open Source Contributor
 GSSoC'21
 </td>
 <td>
-GirlScript Summer of Code 2021- Open Source Mentor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSOC%20Mentor%20Certificate%20-%20Rajdeep%20Das.pdf">GirlScript Summer of Code 2021- Open Source Mentor</a>
 </td>
 </tr>
 
@@ -62,7 +62,7 @@ GirlScript Summer of Code 2021- Open Source Mentor
 GWoC'21
 </td>
 <td>
-GirlScript Winter of Code 2021- Open Source Project Supervisor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GWoC/GirlScript%20Foundation%20Winter%20of%20Code">GirlScript Winter of Code 2021- Open Source Project Supervisor</a>
 </td>
 </tr>
 
@@ -71,7 +71,7 @@ GirlScript Winter of Code 2021- Open Source Project Supervisor
 SWoC'20
 </td>
 <td>
-Script Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/SWoC/Rajdeep%20Das%20SWOC%20Contributor.pdf">Script Winter of Code 2020- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -80,7 +80,7 @@ Script Winter of Code 2020- Open Source Contributor
 Delta WoC'20
 </td>
 <td>
-Delta Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/Delta%20WoC/Delta%20WInter%20of%20Code-Rajdeep%20Das.pdf">Delta Winter of Code 2020- Open Source Contributor </a>
 </td>
 </tr>
   
@@ -89,7 +89,7 @@ Delta Winter of Code 2020- Open Source Contributor
 DWoC'20
 </td>
 <td>
-DevScript Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/DWoC/Rajdeep%20Das%20DevScript.pdf">DevScript Winter of Code 2020- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -98,7 +98,7 @@ DevScript Winter of Code 2020- Open Source Contributor
 CWoC'21
 </td>
 <td>
-Cross Winter of Code 2021- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/CWoC/CWoC-Rajdeep%20Das.pdf">Cross Winter of Code 2021- Open Source Contributor </a>
 </td>
 </tr>
   
@@ -107,7 +107,7 @@ Cross Winter of Code 2021- Open Source Contributor
 KWoC'20
 </td>
 <td>
-Kharagpur (IIT) Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/KWoC/KWoC-Rajdeep%20Das.pdf">Kharagpur (IIT) Winter of Code 2020- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -116,7 +116,7 @@ Kharagpur (IIT) Winter of Code 2020- Open Source Contributor
 JWoC'21
 </td>
 <td>
-JGEC <br>(Jalpaiguri Government Engineering College) Winter of Code 2021- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/JWoC/JWoC-Rajdeep%20Das.pdf">JGEC <br>(Jalpaiguri Government Engineering College) Winter of Code 2021- Open Source Contributor </a>
 </td>
 </tr>
 
@@ -125,7 +125,7 @@ JGEC <br>(Jalpaiguri Government Engineering College) Winter of Code 2021- Open S
 Delta WoC'20
 </td>
 <td>
-JGEC <br> (Jalpaiguri Government Engineering College) Winter of Code 2020- Open Source Mentor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/JWoC/JWoC-%20Mentor%20Rajdeep%20Das.pdf">JGEC <br> (Jalpaiguri Government Engineering College) Winter of Code 2020- Open Source Mentor</a>
 </td>
 </tr>
    
@@ -134,7 +134,7 @@ JGEC <br> (Jalpaiguri Government Engineering College) Winter of Code 2020- Open 
 NWoC'20
 </td>
 <td>
-NJack (IIT Patna) Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/NWoC/Rajdeep%20Das%20NWoC.pdf">NJack (IIT Patna) Winter of Code 2020- Open Source Contributor </a>
 </td>
 </tr>
 
@@ -143,7 +143,7 @@ NJack (IIT Patna) Winter of Code 2020- Open Source Contributor
 DSC NSEC (EduAlgo) WoC'20
 </td>
 <td>
-EduAlgo via DSC NSEC <br> (Netaji Subhash Engineering College) Winter of Code 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/EduAlgo/EduAlgo%20WoC-Rajdeep%20Das.pdf">EduAlgo via DSC NSEC <br> (Netaji Subhash Engineering College) Winter of Code 2020- Open Source Contributor </a>
 </td>
 </tr>
   
@@ -152,10 +152,19 @@ EduAlgo via DSC NSEC <br> (Netaji Subhash Engineering College) Winter of Code 20
 GGoS'20
 </td>
 <td>
-GeeksforGeeks Game of Source 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GGoS/GOS%20-%20Rajdeep%20Das.pdf">GeeksforGeeks Game of Source 2020- Open Source Contributor</a>
 </td>
 </tr>
-  
+
+<tr>
+<td>
+GGoS'20
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GGoS/GOS%20Certificate%20of%20Excellence.pdf">GeeksforGeeks Game of Source 2020- Lead Contributor</a>
+</td>
+</tr>
+
 <tr>
 <td>
 Hackclub SAL'20
