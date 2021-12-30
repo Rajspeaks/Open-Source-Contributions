@@ -56,6 +56,16 @@ GSSoC'21
 <a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSOC%20Mentor%20Certificate%20-%20Rajdeep%20Das.pdf">GirlScript Summer of Code 2021- Open Source Mentor</a>
 </td>
 </tr>
+  
+<tr>
+<td>
+LGMSoC'21
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/LGMSoC/LETSGROWMORE.pdf"> LetsGrowMore Summer of Code 2021- Open Source Contributor </a>
+</td>
+</tr>
+
 
 <tr>
 <td>
@@ -170,7 +180,7 @@ GGoS'20
 Hackclub SAL'20
 </td>
 <td>
-Hackclub SAL 2020 30 days of python- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/HackClub%20SAL/30%20Days%20Of%20Python.pdf">Hackclub SAL 2020 30 days of python- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -179,7 +189,7 @@ Hackclub SAL 2020 30 days of python- Open Source Contributor
 Hacktoberfest'20
 </td>
 <td>
-Hacktoberfest 2020- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/Hacktoberfest/Hacktoberfest%202020%20badge.png">Hacktoberfest 2020- Open Source Contributor</a>
 </td>
 </tr>
 
@@ -188,7 +198,7 @@ Hacktoberfest 2020- Open Source Contributor
 Hacktoberfest'21
 </td>
 <td>
-Hacktoberfest'21- Open Source Contributor + Mentor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/Hacktoberfest/Hacktoberfest%202021%20badge.png">Hacktoberfest'21- Open Source Contributor + Mentor</a>
 </td>
 </tr>
 
@@ -197,6 +207,6 @@ Hacktoberfest'21- Open Source Contributor + Mentor
 RedWoodJS'20
 </td>
 <td>
-RedWoodJS'20- Open Source Contributor
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/RedWoodJS/EXoS75sUEAEZtB3.png">RedWoodJS'20- Open Source Contributor</a> 
 </td>
 </tr>
