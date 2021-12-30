@@ -26,7 +26,16 @@ GSSoC'18
 GSSoC'19
 </td>
 <td>
-GirlScript Summer of Code 2019- Open Source Project Admin/Mentor
+[GirlScript Summer of Code 2019- Open Source Project Admin] (https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/GSSoC'19%20Project%20Admin.pdf)
+</td>
+</tr>
+
+<tr>
+<td>
+GSSoC'19
+</td>
+<td>
+GirlScript Summer of Code 2019- Open Source Mentor
 </td>
 </tr>
 
