@@ -81,7 +81,7 @@ LGMSoC'21
 GWoC'21
 </td>
 <td>
-<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GWoC/GirlScript%20Foundation%20Winter%20of%20Code">GirlScript Winter of Code 2021- Open Source Project Supervisor</a>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GWoC/Rajdeep%20Das%20GWoC'21%20Supervisor.pdf">GirlScript Winter of Code 2021- Open Source Project Supervisor</a>
 </td>
 </tr>
 
