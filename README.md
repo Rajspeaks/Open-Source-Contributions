@@ -111,6 +111,16 @@ DWoC'20
 <a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/DWoC/Rajdeep%20Das%20DevScript.pdf">DevScript Winter of Code 2020- Open Source Contributor</a>
 </td>
 </tr>
+ 
+<tr>
+<td>
+DevIncept'21
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/DevIncept/Rajdeep%20Das%20DevIncept%20Mentor.pdf">DevIncept 2021 Open Source Contributor</a>
+</td>
+</tr>
+
 
 <tr>
 <td>
@@ -195,13 +205,22 @@ Hackclub SAL'20
 
 <tr>
 <td>
+Twowaits 2021
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/Twowaits/Rajdeep%20Das%20Hacktoberfest.pdf"> Twowaits Hacktoberfest 2021- Open Source Contributor</a>
+</td>
+</tr>
+
+<td>
 Hacktoberfest'20
 </td>
 <td>
 <a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/Hacktoberfest/Hacktoberfest%202020%20badge.png">Hacktoberfest 2020- Open Source Contributor</a>
 </td>
 </tr>
-
+ 
+ 
 <tr>
 <td>
 Hacktoberfest'21
