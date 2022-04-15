@@ -1,10 +1,11 @@
-![open-source](https://user-images.githubusercontent.com/44817007/147729292-73edd0c8-bed6-45cc-abab-c8882be01e92.jpeg)
+![open source](https://user-images.githubusercontent.com/44817007/163567583-0c066ba2-92af-4880-bc30-33487265b453.jpg)
+
 
 # Rajdeep Das
 
 - Frontend Developer, Designing enthusiast, Tech-nomad  
 
-## List of my all Open Source Contribution: 
+## List of my all Open Source Contribution & Mentorship: 
 
 Here is the List of my all Open Source Contribution both as a Participant & as a Mentor or Project Admin in several Open Source Events. 
 Earned Certificate of Achievement/Participation/Appreciation, Letter of Recommendation for mentorship.
