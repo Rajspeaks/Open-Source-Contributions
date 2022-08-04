@@ -259,6 +259,16 @@ MSTC WoC' 4.0 DA-IICT
 </td>
 </tr>
 
+<tr>
+<td>
+GSSoC'22
+</td>
+<td>
+<a href="https://github.com/Rajspeaks/Open-Source-Contributions/blob/main/GSSoC/Rajdeep%20%20Das%20Mentorship%20LOR-%20GSSOC'22.pdf">GirlScript Summer of Code 2022 Mentor </a> 
+</td>
+</tr>
+
+
 </table>
  
  &copy; Rajdeep Das
